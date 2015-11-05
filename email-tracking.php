@@ -3,7 +3,7 @@
  * Plugin Name: Email Open Tracking for Infusionsoft
  * Plugin URI: http://automate.fm/email-open-tracking-plugin
  * Description: Use email opens to trigger actions in Infusionsoft
- * Version: 1.1
+ * Version: 0.2
  * Author: Justin Handley
  * Author URI: http://automate.fm
  * Text Domain: isemailopentracking

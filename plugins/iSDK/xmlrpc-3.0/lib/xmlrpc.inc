@@ -3324,5 +3324,3 @@ function is_valid_charset($encoding, $validlist)
         return false;
     }
 }
-
-?>
